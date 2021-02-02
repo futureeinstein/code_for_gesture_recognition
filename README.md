@@ -7,5 +7,5 @@
 
 ###  Sync project with gradle to your android studio 
  
- 
+ `JAVA BASED PROGRAMME`
 ###  Launch Android virtual device to your android studio and run project
